@@ -5,4 +5,5 @@ My name is Sonaxy Mohanty. Currently I'm pursuing a master's degree in Data Scie
 In my free time I love to read, watch movies, garden.
 
 Contact: sonaxy.mohanty2012@gmail.com
+
 Linkedin: https://www.linkedin.com/in/sonaxy-mohanty-51012359/
