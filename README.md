@@ -1,7 +1,7 @@
 Hello,
 My name is Sonaxy Mohanty. 
 
-As a skilled Data Scientist, I have a strong background in Business Intelligence and Data Warehousing with experience in ML model development. I specialize in Regression Models, Time Series Forecasting, Clustering, Decision Trees, Bagging and Boosting algorithms, and more. With over 8 years of experience, I am skilled in Python, R, SQL, and Tableau, equipped with data wrangling techniques, predictive modeling, and statistical analysis.
+As a skilled Data Scientist, I have a strong background in Business Intelligence and Data Warehousing with experience in ML model development. I specialize in Regression Models, Time Series Forecasting, Clustering, Decision Trees, Bagging and Boosting algorithms, and more. With over 8 years of experience, I am skilled in Python, R, SQL, and Microsoft Power BI, equipped with data wrangling techniques, predictive modeling, and statistical analysis.
 
 With a solid background of over 6 years of experience in the Data Warehouse and Business Intelligence field, I have developed expertise in SQL, PL/SQL, ETL, and Reporting, successfully managing end-to-end project delivery for diverse clients using both Agile and Waterfall methodologies. My skills also include implementing and configuring solutions, data modeling, and report development, allowing me to effectively solve complex business challenges.
 
