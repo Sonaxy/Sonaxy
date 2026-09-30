@@ -1,15 +1,33 @@
-Hello,
-My name is Sonaxy Mohanty. 
+### Hi, I'm Sonaxy 👋
 
-As a skilled Data Scientist, I have a strong background in Business Intelligence and Data Warehousing with experience in ML model development. I specialize in Regression Models, Time Series Forecasting, Clustering, Decision Trees, Bagging and Boosting algorithms, and more. With over 8 years of experience, I am skilled in Python, R, SQL, and Microsoft Power BI, equipped with data wrangling techniques, predictive modeling, and statistical analysis.
+I'm a **Senior FP&A Insights Advisor** with 11+ years of experience spanning **financial analytics, data science, business intelligence, and data warehousing**.
 
-With a solid background of over 6 years of experience in the Data Warehouse and Business Intelligence field, I have developed expertise in SQL, PL/SQL, ETL, and Reporting, successfully managing end-to-end project delivery for diverse clients using both Agile and Waterfall methodologies. My skills also include implementing and configuring solutions, data modeling, and report development, allowing me to effectively solve complex business challenges.
+My current work sits at the intersection of **finance, analytics, and strategy**, with a focus on financial research and modeling, investment analysis, cash management and allocation, capital project evaluation, and financial decision support.
 
-To stay ahead of the curve, I currently hold a Master of Science degree in Data Science and Analytics to further enhance my skills in Machine Learning, R, and Python. This academic pursuit has also honed my abilities in comprehending data science issues, data wrangling techniques, predictive and statistical modeling, and model evaluations that are critical in decision-making. I have spent nearly 2 years working on data science problems in healthcare, energy, and finance domains, utilizing R and Python.
+I use **financial storytelling and data science** to turn complex financial and operational data into meaningful insights that support investment, cash management, and capital allocation decisions.
 
-I currently hold the position of Senior FP&A Insights Advisor within the Chickasaw Nation. My role involves supporting the Investment Management and Cash Management and Allocation Committee by assessing and examining capital projects. 
+### 🔍 Areas of Focus
 
-In my free time I love to read, watch movies, garden.
+- Financial Modeling & Financial Analytics
+- Investment & Cash Management Analytics
+- Cash & Capital Allocation
+- Capital Project Analysis
+- Forecasting & Statistical Modeling
+- Data Science & Decision Support
+- Analytics Automation
+
+### 🛠️ Technical Background
+
+**Languages:** R, Python, SQL, PL/SQL  
+**Analytics & Visualization:** Tableau, Financial Modeling, Forecasting, Statistical Analysis  
+**Data:** Data Wrangling, ETL, Data Modeling, Data Warehousing, Reporting  
+**Methods:** Regression, Time Series Forecasting, Clustering, Decision Trees, Bagging & Boosting
+
+### 🎓 Background
+
+I hold a **Master of Science in Data Science and Analytics** and have applied data science and analytical techniques across **finance, healthcare, and energy**.
+
+My interests continue to evolve around using **data, research, financial modeling, and financial storytelling** to solve complex financial problems and support strategic decision-making.
 
 Contact: sonaxy.mohanty2012@gmail.com
 
